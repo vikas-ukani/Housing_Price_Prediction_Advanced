@@ -1,5 +1,5 @@
-# Housing_Price_Prediction_Advanced
-Housing Price_Prediction_Advanced Learning Project
+# Housing Price Prediction Advanced Regression Problem
+Housing Price Prediction Advanced Regression Machine Learning Problem
  
 > Steps are:
 - Gathering Data
